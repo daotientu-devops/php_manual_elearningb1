@@ -1,0 +1,4 @@
+﻿Hosting name: http://cpanel.1freehosting.com/
+MySQL database name: u102032353_fitho
+MySQL username: u102032353_root
+Password: fithoub1db
